@@ -25,9 +25,6 @@ A) [16 21 11 8 12 22]
 
 B)   
      2^x=n
-
      x=logn 
-     
      0(n) Her Bölme İşlemi 
-     
      Big-O = O(nlogn)
