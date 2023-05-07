@@ -27,6 +27,7 @@ B)
      
      
      2^x=n
+     
      x=logn 
      
      0(n) Her Bölme İşlemi 
